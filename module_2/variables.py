@@ -14,3 +14,5 @@ is_true = True
 is_light_on = True
 
 first_name, last_name, age = "Nazifi", "Jibril", 32
+
+# Exercise level 2
