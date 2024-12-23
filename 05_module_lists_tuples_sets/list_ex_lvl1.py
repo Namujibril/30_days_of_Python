@@ -1,4 +1,4 @@
-# Declare an empty ist
+## Declare an empty ist
 empty_lst = []
 
 # declare a list with more than 5 items

@@ -1,4 +1,4 @@
-# sets
+# sets exercises
 it_companies = {'Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon'}
 
 # Find the length of the set it_companies
@@ -13,7 +13,7 @@ it_companies.update(['LinkedIn', 'Instagram', 'Snapchat'])
 # Remove one of the companies from the set it_companies
 it_companies.remove('IBM')
 
-# What is the difference between remove and discard
+### What is the difference between remove and discard?
 
 # remove() will raise an error if the element does not exist in the set
 
